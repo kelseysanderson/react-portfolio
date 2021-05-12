@@ -1,0 +1,15 @@
+footer {
+  position: absolute;
+  height: 70px;
+  bottom: 0px;
+  left: 0px;
+  right: 0px;
+  margin-bottom: 0px;
+  background-color: #304a61;
+}
+
+div.p-3 {
+  font-size: 25px;
+}
+  
+
