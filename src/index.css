@@ -9,8 +9,9 @@ body {
 }
 
 html, body { 
-  height: calc(100% -300px);
+  height: 100%;
  }
+
 
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
