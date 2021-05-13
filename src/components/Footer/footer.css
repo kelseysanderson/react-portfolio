@@ -1,15 +1,18 @@
 footer {
-  position: absolute;
-  height: 70px;
-  bottom: 0px;
-  left: 0px;
-  right: 0px;
-  margin-bottom: 0px;
-  background-color: #304a61;
+  position: relative;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  min-height: 100px;
+  text-align: center;
+  padding: 10px;
+  box-sizing: border-box;
+  background-color: #1c2d50;
 }
 
 div.p-3 {
   font-size: 25px;
 }
+
   
 
