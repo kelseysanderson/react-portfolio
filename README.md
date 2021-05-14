@@ -16,7 +16,7 @@ A professional React portfolio. Contains links to a projects page and an about m
 ![Screenshot of Projects Page](./src/images/react-portfolio-projects-page.jpg)
 
 ## URL
-[Live URL to Portfolio]( https://kelseysanderson.github.io/react-portfolio/about)
+[Live URL to Portfolio]( https://kelseysanderson.github.io/react-portfolio)
 
 ## License
 Read more about the license here:
