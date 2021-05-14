@@ -14,7 +14,7 @@ function App() {
       <div>
         <Navbar />
         <Wrapper>
-          <Route exact path={["/", "/about"]} component={About} />
+          <Route exact path={["/", "/react-portfolio", "/about"]} component={About} />
           <Route exact path="/projects" component={Projects} />
         </Wrapper>
         <Footer />
