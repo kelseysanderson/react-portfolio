@@ -8,18 +8,6 @@ function Navbar() {
       <p>KELSEY SANDERSON</p>
       <div>
         <ul className="navbar-nav">
-          <li className="nav-item">
-            <Link
-              to="/"
-              className={
-                window.location.pathname === "/"
-                  ? "nav-link active"
-                  : "nav-link"
-              }
-            >
-              Home
-              </Link>
-          </li>
 
           <li className="nav-item">
             <Link
