@@ -1,8 +1,5 @@
 import React from "react";
 import "./footer.css"
-import linkedInLogo from "../../images/linkedin.png"
-import githubLogo from "../../images/github.webp"
-import gmailLogo from "../../images/gmail.webp"
 
 function Footer() {
   return (

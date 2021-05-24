@@ -12,7 +12,16 @@ div.react-3d-carousel {
 
 img {
   height: 500px;
-  width: 700px;
+  width: 800px;
+  margin-top: 30px;
+}
+
+.project-title {
+  text-align:center;
+  font-family: "Raleway";
+  font-weight: bold;
+  margin-top: 15px;
+
 }
 
 p.project-description {
@@ -22,6 +31,17 @@ p.project-description {
   word-spacing: 5px;
   text-align:center;
   text-decoration: none;
+  max-width: 800px;
+  font-style: italic;
+}
+
+.project-paragraph {
+  font-style:normal !important;
+}
+
+i.fa {
+  color:rgb(33, 33, 66) !important;
+
 }
 
 a {

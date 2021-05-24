@@ -36,7 +36,7 @@ function About() {
                     <h2 className="header" id="bio-header">RESUM&Egrave;</h2>
                     <a href={resume} target="_blank">
                         <p id="resume-link"><FontAwesomeIcon icon={faStickyNote} /> View Resume Here</p>
-                     </a>
+                    </a>
                 </div>
                 <div className="col-12 col-md-5 col-lg-6 mt-5">
                     <div className="row picture-row justify-content-center ">
@@ -72,7 +72,7 @@ function About() {
                             </div>
                         </ul>
                     </div>
-                  
+
                 </div>
             </div>
         </div>

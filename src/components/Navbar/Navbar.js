@@ -5,7 +5,7 @@ import "./navbar.css";
 function Navbar() {
   return (
     <nav className="navbar navbar-expand-lg navbar-light bg-light">
-      <p>KELSEY SANDERSON</p>
+      <p id="header-name">KELSEY SANDERSON</p>
       <div>
         <ul className="navbar-nav">
 
